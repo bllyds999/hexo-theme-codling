@@ -1,7 +1,7 @@
 {
-  "name": "他说",
-  "short_name": "他说",
-  "description": "梁栋烨的博客网站。",
+  "name": "小鲤鱼笔记",
+  "short_name": "鱼笔记",
+  "description": "今日事，今日做。",
   "lang": "zh-CN",
   "start_url": "/",
   "display": "standalone",
